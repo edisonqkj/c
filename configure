@@ -1,0 +1,4 @@
+echo "alias debug='~/.debug.sh'" >> ~/.bashrc
+cp ./debug.sh ~/.debug.sh
+echo "Configuration is finished successfully."
+echo "Please restart a new terminal for next works."
